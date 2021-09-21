@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>foto/aperol-spritz.png</file>
+        <file>foto/bar.png</file>
+        <file>foto/beer.png</file>
+        <file>foto/black-russian.png</file>
+        <file>foto/burger.png</file>
+        <file>foto/caipirinha.png</file>
+        <file>foto/cappuccino.png</file>
+        <file>foto/champagne.png</file>
+        <file>foto/cocktail.png</file>
+        <file>foto/coffee.png</file>
+        <file>foto/coke.png</file>
+        <file>foto/daiquiri.png</file>
+        <file>foto/default.png</file>
+        <file>foto/gin-tonic.png</file>
+        <file>foto/hamburger.png</file>
+        <file>foto/home.png</file>
+        <file>foto/hot-chocolate.png</file>
+        <file>foto/ice-tea.png</file>
+        <file>foto/iconcart.png</file>
+        <file>foto/lemonade.png</file>
+        <file>foto/potato-chips.png</file>
+        <file>foto/salad.png</file>
+        <file>foto/sandwhich.png</file>
+        <file>foto/shopping-cart.png</file>
+        <file>foto/softdrinks.png</file>
+        <file>foto/tea.png</file>
+        <file>foto/to-do-list.png</file>
+        <file>foto/water-bottle.png</file>
+        <file>foto/water-glass.png</file>
+        <file>foto/mojito.png</file>
+        <file>foto/wine.png</file>
+    </qresource>
+</RCC>

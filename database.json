@@ -1,0 +1,310 @@
+{
+    "catalogo": [
+        {
+            "gradazione": 23,
+            "ingredienti": [
+                {
+                    "isLiquido": true,
+                    "nome": "Vodka",
+                    "quantita": 50
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Liquore al caffè",
+                    "quantita": 10
+                }
+            ],
+            "nome": "Black russian",
+            "path": ":/icons/foto/black-russian.png",
+            "quantita": 60,
+            "tipo": "Cocktail"
+        },
+        {
+            "gradazione": 19,
+            "ingredienti": [
+                {
+                    "isLiquido": true,
+                    "nome": "Cachaca",
+                    "quantita": 50
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Succo di lime",
+                    "quantita": 20
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Zucchero",
+                    "quantita": 10
+                }
+            ],
+            "nome": "Caipirinha",
+            "path": ":/icons/foto/caipirinha.png",
+            "quantita": 60,
+            "tipo": "Cocktail"
+        },
+        {
+            "gradazione": 16,
+            "ingredienti": [
+                {
+                    "isLiquido": true,
+                    "nome": "Rum bianco",
+                    "quantita": 45
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Succo di lime",
+                    "quantita": 20
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Zucchero",
+                    "quantita": 10
+                }
+            ],
+            "nome": "Daiquiri",
+            "path": ":/icons/foto/daiquiri.png",
+            "quantita": 60,
+            "tipo": "Cocktail"
+        },
+        {
+            "gradazione": 21,
+            "ingredienti": [
+                {
+                    "isLiquido": true,
+                    "nome": "Gin",
+                    "quantita": 50
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Acqua tonica",
+                    "quantita": 10
+                }
+            ],
+            "nome": "Gin tonic",
+            "path": ":/icons/foto/gin-tonic.png",
+            "quantita": 60,
+            "tipo": "Cocktail"
+        },
+        {
+            "gradazione": 23,
+            "ingredienti": [
+                {
+                    "isLiquido": true,
+                    "nome": "Rum bianco",
+                    "quantita": 45
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Succo di lime",
+                    "quantita": 20
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Soda",
+                    "quantita": 40
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Zucchero",
+                    "quantita": 10
+                }
+            ],
+            "nome": "Mojito",
+            "path": ":/icons/foto/mojito.png",
+            "quantita": 60,
+            "tipo": "Cocktail"
+        },
+        {
+            "ingredienti": [
+                {
+                    "isLiquido": false,
+                    "nome": "Pane",
+                    "quantita": 100
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Hamburger di manzo",
+                    "quantita": 150
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Pomodoro",
+                    "quantita": 75
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Salsa ketchup",
+                    "quantita": 30
+                }
+            ],
+            "nome": "Hamburger",
+            "path": ":/icons/foto/hamburger.png",
+            "quantita": 60,
+            "tipo": "Cibo"
+        },
+        {
+            "ingredienti": [
+                {
+                    "isLiquido": false,
+                    "nome": "Insalata",
+                    "quantita": 200
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Pomodoro",
+                    "quantita": 75
+                },
+                {
+                    "isLiquido": true,
+                    "nome": "Olio",
+                    "quantita": 15
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Sale",
+                    "quantita": 3
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Pomodoro",
+                    "quantita": 75
+                }
+            ],
+            "nome": "Insalata mista",
+            "path": ":/icons/foto/salad.png",
+            "quantita": 60,
+            "tipo": "Cibo"
+        },
+        {
+            "ingredienti": [
+                {
+                    "isLiquido": false,
+                    "nome": "Patate",
+                    "quantita": 125
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Sale",
+                    "quantita": 3
+                }
+            ],
+            "nome": "Patatine",
+            "path": ":/icons/foto/potato-chips.png",
+            "quantita": 125,
+            "tipo": "Cibo"
+        },
+        {
+            "ingredienti": [
+                {
+                    "isLiquido": false,
+                    "nome": "Pane",
+                    "quantita": 100
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Prosciutto",
+                    "quantita": 100
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Insalata",
+                    "quantita": 200
+                },
+                {
+                    "isLiquido": false,
+                    "nome": "Pomodoro",
+                    "quantita": 75
+                }
+            ],
+            "nome": "Sandwhich",
+            "path": ":/icons/foto/sandwhich.png",
+            "quantita": 125,
+            "tipo": "Cibo"
+        },
+        {
+            "gradazione": 10,
+            "nome": "Aperol spritz",
+            "path": ":/icons/foto/aperol-spritz.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 7,
+            "nome": "Birra bionda",
+            "path": ":/icons/foto/beer.png",
+            "quantita": 330,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Cappuccino",
+            "path": ":/icons/foto/cappuccino.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 9,
+            "nome": "Vino bianco",
+            "path": ":/icons/foto/champagne.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 12,
+            "nome": "Vino rosso",
+            "path": ":/icons/foto/wine.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Caffe espresso",
+            "path": ":/icons/foto/coffee.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Coca cola",
+            "path": ":/icons/foto/coke.png",
+            "quantita": 330,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Cappuccino",
+            "path": ":/icons/foto/hot-chocolate.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Te caldo",
+            "path": ":/icons/foto/tea.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Te freddo al limone",
+            "path": ":/icons/foto/ice-tea.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Limonata",
+            "path": ":/icons/foto/lemonade.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        },
+        {
+            "gradazione": 0,
+            "nome": "Acqua",
+            "path": ":/icons/foto/water-bottle.png",
+            "quantita": 200,
+            "tipo": "Bevanda"
+        }
+    ]
+}
